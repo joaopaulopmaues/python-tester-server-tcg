@@ -2,5 +2,11 @@
   "name": "typescript",
   "version": "0.0.0",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "@notion_api": "*",
+    "csv": "^6.0.5",
+    "json": "^11.0.0",
+    "random": "^3.0.6",
+    "requests": "^0.3.0"
+  }
 }
